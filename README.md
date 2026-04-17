@@ -12,7 +12,7 @@ Looking for junior roles in **SAP Fiori development**, **BTP consulting** or **I
 
 ---
 
-## Experience
+## WORK EXPERIENCE
 
 **Trainee Frontend Developer — MaxIT Consulting · Max Corporate Group** *(Aug 2024 – Mar 2025)*  
 Freelance · Full-Time
@@ -60,6 +60,10 @@ Universidad de Palermo · Mar 2024 – present
 Colegio San Jorge (SGS) Escobar · 2020
 
 ---
+## Labor References
+| Available upon request.
+Available to work in *person*, *remotely*, or in a *hybrid format*.
+Open to part-time or full-time positions both in Argentina and abroad, and to offers of compensation in hard currency (USD, EUR).
 
 ## Contact
 
