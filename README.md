@@ -3,7 +3,7 @@
  <p/>
 
 <h1 align="center">Hola, Soy Candela Nuñez👋</h1>
-<h4 align="center">💻 Desarrolladora Web Full Stack | SAP BTP Fiori (en formación) | 🚀 IA aplicada a desarrollo y automatización</h4> 
+<h4 align="center">💻 Desarrolladora Web Full Stack | SAP BTP & Fiori Developer | 🚀 IA aplicada a desarrollo y automatización</h4> 
 
 <br>
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
