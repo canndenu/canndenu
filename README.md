@@ -1,161 +1,67 @@
-<p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
+# Hi, I'm Candela Nuñez
 
-<h1 align="center">Hola, Soy Candela Nuñez👋</h1>
-<h4 align="center">💻 Desarrolladora Web Full Stack | SAP BTP & Fiori Developer | 🚀 IA aplicada a desarrollo y automatización</h4> 
+### SAP BTP · Fiori · Joule · Frontend Developer
+Buenos Aires, Argentina · Open to remote worldwide
 
-<br>
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+---
 
-### &nbsp;Sobre Mi:
+Information Systems student and frontend developer transitioning into SAP consulting.  
+Background in React.js, APIs and agile teams. Currently specializing in **SAP BTP Fiori** and **SAP Joule** integration, with a focus on enterprise UX and AI-powered automation.
 
-- 🎓 Segundo año de Analista de Sistemas, Universidad de Palermo (UP)
-- 💡 En proceso de especialización como **Consultora SAP BTP Fiori** (CVOSOFT, 2026)
-- 🎯 Interesada en proyectos que combinen **Backend robusto** con **Frontend atractivo** y entornos **ERP/corporativos**
-- 🛠️ Experiencia real trabajando con **React.js**, integración de **APIs**, metodología **Scrum** y herramientas de **IA**
-- 🏢 Ex Trainee Frontend Developer en **MaxIT Consulting - Max Corporate Group** (Freelance Full-Time)
-  
-- 📫 How to reach me: candelaanalia15@gmail.com
-- 🔗 LinkedIn: [candela-nunez-arg](https://www.linkedin.com/in/candela-nunez-arg)
+Looking for junior roles in **SAP Fiori development**, **BTP consulting** or **IT Back Office** — part-time or full-time, in Argentina or abroad (USD/EUR).
 
-&nbsp;
+---
 
-<h2 align="center"> EXPERIENCIA LABORAL </h2>
+## Experience
 
-<div style="margin-left: 20px;">
-  <h3>🏢 MaxIT Consulting - Max Corporate Group <em>(08/2024 – 03/2025)</em></h3>
-  <strong>Trainee Frontend Developer — Freelance, Full-Time</strong>
-  <ul>
-    <li>Desarrollo frontend con <strong>React.js</strong>, HTML5 y CSS3 en proyectos reales.</li>
-    <li>Integración de <strong>APIs externas</strong> y soporte en funcionalidades web.</li>
-    <li>Gestión de versiones con <strong>Git / GitHub</strong>.</li>
-    <li>Uso de herramientas de <strong>Inteligencia Artificial</strong> para optimización de tareas y código.</li>
-    <li>Colaboración en equipo bajo metodología ágil <strong>Scrum</strong>.</li>
-  </ul>
-</div>
+**Trainee Frontend Developer — MaxIT Consulting · Max Corporate Group** *(Aug 2024 – Mar 2025)*  
+Freelance · Full-Time
 
-<h2 align="center"> FORMACIÓN Y CURSOS REALIZADOS </h2>
-<h3> Educación Formal</h3>
+- Frontend development with React.js, HTML5 and CSS3
+- External API integration and web feature support
+- Version control and change tracking with Git
+- AI tools applied to task and code optimization
+- Agile teamwork under Scrum methodology
 
-<div style="margin-left: 20px;">
-  <h3>🎓 Analista de Sistemas (En curso)</h3>
-  <ul>
-    <li><strong>Institución:</strong> Universidad de Palermo (UP)</li>
-    <li><strong>Inicio:</strong> Marzo 2024 — en curso</li>
-  </ul>
+---
 
-  <h3>🏅 Bachillerato Internacional Bilingüe (Finalizado)</h3>
-  <ul>
-    <li><strong>Institución:</strong> Colegio San Jorge (SGS) Escobar</li>
-    <li><strong>Finalizado:</strong> Diciembre 2020</li>
-  </ul>
-</div>
+## Technical Skills
 
-<h3> Cursos de Desarrollo Web y Full Stack</h3>
+| Area | Technologies |
+|---|---|
+| **SAP / ERP** | SAP BTP · SAP Fiori / UI5 · Fiori Elements · SAP CAP (Node.js) · OData V2/V4 · SAP Joule · SAP Business AI · SAP SuccessFactors · SAP S/4HANA Cloud · SAP HANA Cloud · SAP BAS |
+| **Frontend** | React.js · JavaScript · HTML5 · CSS3 · Node.js · PHP |
+| **Databases** | SQL · MySQL · PostgreSQL · Oracle |
+| **Integration** | REST APIs · OData · Postman |
+| **Version Control** | Git · GitHub |
+| **Tools** | VS Code · SAP Business Application Studio · Figma · Photoshop · Excel |
+| **AI** | SAP Joule · SAP Business AI · AI-powered automation |
+| **Soft skills** | Scrum · Self-management · Results-oriented · Fast learner |
 
-<div style="margin-left: 20px;">
-  <h3>🖥️ HTML5 y CSS3</h3>
-  <ul>
-    <li><strong>Nivel alcanzado:</strong> C1</li>
-    <li><strong>Descripción:</strong> Desarrollo web moderno con HTML5 y CSS3, diseño responsivo.</li>
-  </ul>
+---
 
-  <h3>🛠️ Camino a Full Stack (HTML, CSS, JavaScript)</h3>
-  <ul>
-    <li><strong>Nivel alcanzado:</strong> B2</li>
-    <li><strong>Descripción:</strong> Formación combinando tecnologías fundamentales del lado del cliente.</li>
-  </ul>
+## Certifications
 
-  <h3>🐘 Curso Básico de PHP</h3>
-  <ul>
-    <li><strong>Nivel alcanzado:</strong> B1</li>
-    <li><strong>Descripción:</strong> Bases de PHP para páginas web dinámicas y conexión con bases de datos.</li>
-  </ul>
+- SAP BTP Fiori Consultant — CVOSOFT (2026)
+- Provisioning and Implementing Joule — SAP (2026)
+- Discovering SAP Business AI — SAP (2026)
+- Artificial Intelligence (Vibe Coding & Automation) — BIGschool (2026)
+- Advanced React.js — Platzi (2025)
+- Web Development HTML5/CSS3/JS — Digital House (2024)
 
-  <h3>⚛️ Curso de SQL y MySQL</h3>
-  <ul>
-    <li><strong>Nivel alcanzado:</strong> B1</li>
-    <li><strong>Descripción:</strong> Consultas SQL, diseño y gestión de bases de datos MySQL, Oracle, PostgreSQL y otros gestores.</li>
-  </ul>
+---
 
-  <h3>🧠 Curso de Lógica de Programación</h3>
-  <ul>
-    <li><strong>Nivel alcanzado:</strong> B2</li>
-    <li><strong>Descripción:</strong> Fundamentos de la programación aplicados en JavaScript, PHP, SQL, C, C++, entre otros.</li>
-  </ul>
+## Education
 
-<div style="margin-left: 20px;">
+**Information Systems Analyst** *(in progress)*  
+Universidad de Palermo · Mar 2024 – present
 
-<h3>🗄️ SAP / ERP</h3>
+**International Bilingual Baccalaureate**  
+Colegio San Jorge (SGS) Escobar · 2020
 
-<div style="margin-left: 20px;">
-  <h3> Consultor SAP BTP Fiori (En formación)</h3>
-  <ul>
-    <li><strong>Institución:</strong> CVOSOFT</li>
-    <li><strong>Inicio:</strong> Enero 2026</li>
-    <li><strong>Descripción:</strong> Especialización en SAP BTP Fiori, procesos de negocio y entornos ERP corporativos.</li>
-  </ul>
-</div>
+---
 
-<h1 style="text-align: center;"> </h1> <h2 align="center">Habilidades Técnicas</h2> 
+## Contact
 
-<table style="width: 80%; margin: 20px auto; border-collapse: collapse; text-align: center; font-size: 16px;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th style="padding: 12px; border: 1px solid #ddd;">Área</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🎨 Frontend</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        HTML5, CSS3, JavaScript<br>
-        React.js<br>
-         Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🖥️ Backend</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        Node.js<br>
-        PHP básico<br>
-        SQL, MySQL, PostgreSQL
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🗄️ Bases de Datos</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        MySQL, Oracle, SQL-Server, PostgreSQL
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🧩 SAP / ERP</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        SAP BTP Fiori (en formación)<br>
-        Procesos de negocio y entornos ERP
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🤖 Inteligencia Artificial</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        Aplicación de IA para automatización de tareas<br>
-        Optimización de procesos y código
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">🔧 Otros</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        Git, GitHub<br>
-       Figma, Photoshop<br>
-        Lógica de Programación<br>
-        Fundamentos: Excel y herramientas administrativas
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<h2 style="text-align: center;">🎯 Siempre en aprendizaje y en búsqueda de nuevos retos.</h2>
-</table>
+- LinkedIn: [linkedin.com/in/candela-nunez-arg](https://www.linkedin.com/in/candela-nunez-arg)
+- Email: candelaanalia15@gmail.com
