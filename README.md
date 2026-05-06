@@ -5,10 +5,15 @@ Buenos Aires, Argentina · Open to remote worldwide
 
 ---
 
-Information Systems student and frontend developer transitioning into SAP consulting.  
-Background in React.js, APIs and agile teams. Currently specializing in **SAP BTP Fiori** and **SAP Joule** integration, with a focus on enterprise UX and AI-powered automation.
+Information Systems student and Web Developer focused on SAP BTP & Fiori/UI5.
+Currently building skills in CAP, Fullstack development, AI-powered automation and enterprise applications.
 
-Looking for junior roles in **SAP Fiori development**, **BTP consulting** or **IT Back Office** — part-time or full-time, in Argentina or abroad (USD/EUR).
+Passionate about creating solutions that optimize processes, improve user experience and connect technology with business needs.
+
+Working with React.js, JavaScript, APIs, Git, SAP ecosystems and modern web technologies.
+
+Open to junior opportunities in Web Development, SAP BTP/Fiori, Functional Support or hybrid tech-business roles — remote or on-site.
+
 
 ---
 
